@@ -1,0 +1,8 @@
+# Overridden string files work in a unique way!
+# Instead of overriding the whole file, they only override the specified strings.
+:traffic:
+	:name:
+		Bonars
+
+	:phonebook:
+		   Sometimes referred to as Vulvovaginitis, these creatures hunt in packs and take pleasure in brutally murdering their prey. Scientific research conducted by the party determines the reason they do this is because they think its very funny.
